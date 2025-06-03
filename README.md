@@ -14,7 +14,7 @@ I'm an aspiring full-stack web developer with a passion for building scalable an
 
 ## Pinned Projects
 
-- [Geo.ca Hackathon Project 2025](https://github.com/TornadoWise/TornadoWise) - 𝗖𝗖𝗠𝗘𝗢 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 Project.
+- [Geo.ca Hackathon Project 2025](https://github.com/TornadoWise/TornadoWise) - GeoIgnite 2025 NRCan Student Virtual Hackathon.
 - [SendGrid Project](https://github.com/malcolmjr96/sendgrid) – Node.JS/Express project that allows you to view various email logs from Sendgrid.
 
 ## Social Media & Links
