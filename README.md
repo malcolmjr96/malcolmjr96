@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**malcolmjr96/malcolmjr96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an aspiring full-stack web developer with a passion for building scalable and accessible web applications. My goal is to create solutions that not only perform well under heavy usage but are also usable by everyone. I enjoy tackling new challenges, learning emerging technologies, and contributing to projects that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap.
+- **Backend:** Node.js, Express, REST APIs, PHP
+- **Databases:** MySQL, SQL
+- **Tools & Platforms:** Git, GitHub, Docker, Netlify, Vercel
+- **Focus Areas:** Scalability, Accessibility, Responsive Design, Performance Optimization, Web Security, Education
+
+## Pinned Projects
+
+- [Geo.ca Hackathon Project 2025](https://github.com/TornadoWise/TornadoWise) - 𝗖𝗖𝗠𝗘𝗢 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 Project.
+- [SendGrid Project](https://github.com/malcolmjr96/sendgrid) – Node.JS/Express project that allows you to view various email logs from Sendgrid.
+
+## Social Media & Links
+
+- [LinkedIn](https://www.linkedin.com/in/malcolm-melbourne/)
+- [Portfolio Website](https://github.com/malcolmjr96) - Coming soon!
+
+---
+
+Feel free to connect or check out my work!
